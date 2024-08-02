@@ -1,6 +1,7 @@
 # Module-8-Extra-Credit-Design-Problem
 
 EEE 120: Extra Credit Design Problem
+
 Design a synchronous counter that counts up 0, 1, 2, 3, 0, 1, 2, 3, ... when an input x = 1, and
 down when x = 0 using
 (a) D flip-flops.
